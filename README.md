@@ -1,4 +1,0 @@
-wordpress
-=========
-
-WordPress sample code
